@@ -3,7 +3,7 @@
 ## Установка после клонирования репозитория
 
 ```
-cd ra-homeworks-1-1
+cd ra-homeworks-1-2
 npm install
 npm run dev
 ```
